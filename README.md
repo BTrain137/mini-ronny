@@ -1,6 +1,2 @@
-# express-simple-server-boiler
-
-Initial first steps
-```bash
-$ bash init.bash
-```
+# mini-ronny
+Shopify Webhook Order Fulfillment Helper

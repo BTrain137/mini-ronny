@@ -1,0 +1,27 @@
+{
+  "name": "mini-ronny",
+  "version": "1.0.0",
+  "description": "Shopify Webhook Order Fulfillment Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BTrain137/mini-ronny.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BTrain137/mini-ronny/issues"
+  },
+  "homepage": "https://github.com/BTrain137/mini-ronny#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "morgan": "^1.10.0"
+  }
+}

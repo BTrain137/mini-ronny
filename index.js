@@ -4,6 +4,8 @@ const cors = require("cors");
 const helmet = require("helmet");
 const logger = require("morgan");
 
+const routes = require("./routes");
+
 const { PORT, DEBUG, } = process.env;
 const port = PORT || 3001;
 
